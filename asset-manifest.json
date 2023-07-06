@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/briniclesblog/static/css/main.073c9b0a.css",
+    "main.js": "/briniclesblog/static/js/main.6dda51fd.js",
+    "static/js/787.24e0bf46.chunk.js": "/briniclesblog/static/js/787.24e0bf46.chunk.js",
+    "static/media/logo.svg": "/briniclesblog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/briniclesblog/index.html",
+    "main.073c9b0a.css.map": "/briniclesblog/static/css/main.073c9b0a.css.map",
+    "main.6dda51fd.js.map": "/briniclesblog/static/js/main.6dda51fd.js.map",
+    "787.24e0bf46.chunk.js.map": "/briniclesblog/static/js/787.24e0bf46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6dda51fd.js"
+  ]
+}
